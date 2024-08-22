@@ -1,0 +1,125 @@
+
+#netflix{
+   color: red;
+}
+
+body {
+    
+    background-image:url(netflix\ image.png)
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+.hit{
+     background-color: rgba(200, 0, 0);
+     color: white;
+    border : none;
+    height: 36px;
+     width: 105px;
+     border-radius: 2%;
+     font-weight: 100;
+     cursor: pointer;
+     margin-right: 10px;
+  
+    
+}
+
+.join{
+  position: absolute ;
+      font-display: left
+      ;
+     background-color: rgb(42, 119, 187);
+     border-color: rgb (41,118,211);
+     border-style: solid;
+     border-width: 1%;
+     height: 36px;
+     width:60px;
+     margin-left: 1240px;
+      
+     cursor: pointer;
+
+
+
+}
+
+.hit:hover{
+  box-shadow: 10px 10px 10px  red ;
+
+}
+
+
+
+.join:hover{
+  box-shadow: 5px 5px 10px  blue;
+
+}
+
+
+
+
+
+h3{
+  text-align: center;
+  color: blanchedalmond;
+}
+
+
+ .finish{
+    background-color: red;
+    color: white;
+    margin-right:315px;
+ }
+ .enjoy{
+  margin-top: 17px;
+  text-align: center;
+  color: antiquewhite;
+ }
+
+
+
+  
+ .tranding{
+  margin-left: 200px;
+ }
+ p{
+  margin-top: 25px;
+   color: aliceblue;
+   text-decoration: double;
+   text-shadow: 0cqb;
+   text-wrap-style: wrap;
+   text-align: center;
+ }
+
+#more {
+  color: cadetblue;
+  margin-top: 50px;
+  text-shadow: 12px;
+  text-align: center;
+
+}
+ #cancle{
+   margin-top: 20px;
+
+ }
+
+ #cancle:hover{
+  box-shadow: 10px 10px 10px  #fdfdfd
+ }
+
+ h4{
+  color: aqua;
+ }
+
+ #intc{
+  text-transform: capitalize;
+  text-align: center;
+  margin-right: 50px;
+ }
